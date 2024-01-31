@@ -1,7 +1,9 @@
 ### Hi there 👋
-I am Daniel artist and songwriter  	:notes::headphones::stuck_out_tongue_closed_eyes:
-i am currently learning web developement :globe_with_meridians:
-It seems overwelhming but i would survive:sweat_smile:
+I am Daniel artist and songwriter 🎶🎧😝
+i am currently learning web developement 🌐
+It seems overwelhming but i would survive😅
+
+And finally Here!
 
 
 <!--
