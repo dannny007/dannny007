@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am Daniel artist and songwriter  	:notes::headphones::stuck_out_tongue_closed_eyes:
+i am currently learning web developement :globe_with_meridians:
+It seems overwelhming but i would survive:sweat_smile:
+
 
 <!--
 **dannny007/dannny007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
