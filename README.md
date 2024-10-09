@@ -1,5 +1,5 @@
 Hi there 👋
-##INTRO 🤝
+## INTRO 🤝
 I am Daniel Enoch 😀
 I am a medical doctor⚕️
 And a full stack developer 👨‍💻
@@ -10,7 +10,7 @@ Online medical consultation,
 online drug prescription, 
 and online theraphy just on your palm.
 
-##TOOLS TECH & SKILLS
+## TOOLS TECH & SKILLS
 
 ##CONTACT
 For personal collaborations,
