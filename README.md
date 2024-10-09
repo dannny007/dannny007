@@ -20,6 +20,8 @@ and online theraphy just on your palm.
 ![Static Badge](https://img.shields.io/badge/-MongoDB-ORANGE)
 ![Static Badge](https://img.shields.io/badge/-GitHub-pink)
 ![Static Badge](https://img.shields.io/badge/-AmoCRM-gold)
+![Static Badge](https://img.shields.io/badge/-NodeJs-red)
+
 
 
 
