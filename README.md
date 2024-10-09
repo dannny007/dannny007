@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am Daniel Enoch
+
+##I am Daniel Enoch
 I am a medical doctor and a full stack developer
 I am currently working on my application Virex that hopes to provide 
 easy access to HMO, online medical consultaion, online drug prescription, 
