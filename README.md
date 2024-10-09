@@ -11,8 +11,7 @@ that would enable my application Virex go live
 and online theraphy just on your palm.
 
 ## TOOLS TECH & SKILLS 🛠️
-
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
+https://img.shields.io/badge/-SCSS-000?style=flat&logo=sass
 
 
 ## CONTACT 📮
