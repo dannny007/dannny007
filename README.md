@@ -16,6 +16,11 @@ and online theraphy just on your palm.
 ![Static Badge](https://img.shields.io/badge/-CSS-orange)
 ![Static Badge](https://img.shields.io/badge/-Figma-purple)
 ![Static Badge](https://img.shields.io/badge/-Bootstrap-blue)
+![Static Badge](https://img.shields.io/badge/-React-black)
+![Static Badge](https://img.shields.io/badge/-MongoDB-ORANGE)
+![Static Badge](https://img.shields.io/badge/-GitHub-pink)
+![Static Badge](https://img.shields.io/badge/-AmoCRM-gold)
+
 
 
 
