@@ -11,7 +11,10 @@ that would enable my application Virex go live
 and online theraphy just on your palm.
 
 ## TOOLS TECH & SKILLS 
-![image](https://github.com/user-attachments/assets/411328fc-5fc3-4dfb-9e46-a69448dcf0db) ![image](https://github.com/user-attachments/assets/a62260bf-e3b0-4d21-9cba-08ecd374be83) ![image](https://github.com/user-attachments/assets/ba0ca5b2-0860-4c95-b81c-cab3a129ae95) ![image](https://github.com/user-attachments/assets/5c915beb-8e93-4feb-9409-030e1c935c5f)
+![image](https://github.com/user-attachments/assets/411328fc-5fc3-4dfb-9e46-a69448dcf0db) ![image](https://github.com/user-attachments/assets/a62260bf-e3b0-4d21-9cba-08ecd374be83) ![image](https://github.com/user-attachments/assets/ba0ca5b2-0860-4c95-b81c-cab3a129ae95) ![image](https://github.com/user-attachments/assets/5c915beb-8e93-4feb-9409-030e1c935c5f)![image](https://github.com/user-attachments/assets/35c9c7d5-65f9-4743-8757-14ece7448ea5)
+![image](https://github.com/user-attachments/assets/a95cade3-6da0-4b3e-9d81-e5d668cbf2aa)
+
+
 
 
 
