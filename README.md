@@ -46,8 +46,8 @@ and online theraphy just on your palm.
 For personal collaborations,
 suggestions or feedbacks kindly reach me on
 
-kingdommuzique@gmail.com
-
+Mail : Kingdommuzique@gmail.com
+Linkdin : 
 
 
 
