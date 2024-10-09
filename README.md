@@ -12,9 +12,10 @@ and online theraphy just on your palm.
 
 ## TOOLS TECH & SKILLS
 
-##CONTACT
+## CONTACT
 For personal collaborations,
-suggestions or feedbacks kindly reach me 
+suggestions or feedbacks kindly reach me on
+
 kingdommuzique@gmail.com
 
 
