@@ -12,6 +12,11 @@ and online theraphy just on your palm.
 
 ## TOOLS TECH & SKILLS 
 ![Static Badge](https://img.shields.io/badge/-Javascript-red)
+![Static Badge](https://img.shields.io/badge/-HTML-blue)
+![Static Badge](https://img.shields.io/badge/-CSS-orange)
+![Static Badge](https://img.shields.io/badge/-Figma-purple)
+![Static Badge](https://img.shields.io/badge/-Bootstrap-blue)
+
 
 
 
