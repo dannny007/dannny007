@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 ## INTRO 🤝
 - I am Daniel Enoch 😀
 - I am a medical doctor⚕️
