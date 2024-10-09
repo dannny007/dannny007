@@ -12,7 +12,7 @@ and online theraphy just on your palm.
 
 ## TOOLS TECHNOLOGIES & SKILLS 
 ### Programming Languages:
-![Static Badge](https://img.shields.io/badge/-Javascript-red)
+![Static Badge](https://img.shields.io/badge/-JAVASCRIPT-red)
 ### StyleSheet Language:
 ![Static Badge](https://img.shields.io/badge/-HTML-blue)
 ![Static Badge](https://img.shields.io/badge/-CSS-orange)
