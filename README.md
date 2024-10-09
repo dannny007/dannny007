@@ -10,9 +10,12 @@ that would enable my application Virex go live
 - Online drug prescription
 and online theraphy just on your palm.
 
-## TOOLS TECH & SKILLS
+## TOOLS TECH & SKILLS 🛠️
 
-## CONTACT
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
+
+
+## CONTACT 📮
 For personal collaborations,
 suggestions or feedbacks kindly reach me on
 
