@@ -1,10 +1,18 @@
-### Hi there 👋
+Hi there 👋
+##INTRO 🤝
+I am Daniel Enoch 😀
+I am a medical doctor⚕️
+And a full stack developer 👨‍💻
+I am currently learning new skills and technlogies 🌐
+that would enable my application Virex go live
+Virex hopes to provide easy access to HMOs,
+Online medical consultation, 
+online drug prescription, 
+and online theraphy just on your palm.
 
-##I am Daniel Enoch
-I am a medical doctor and a full stack developer
-I am currently working on my application Virex that hopes to provide 
-easy access to HMO, online medical consultaion, online drug prescription, 
-online theraphy just on your palm.
+##TOOLS TECH & SKILLS
+
+##CONTACT
 For personal collaborations,
 suggestions or feedbacks kindly reach me 
 kingdommuzique@gmail.com
