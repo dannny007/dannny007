@@ -1,9 +1,13 @@
 ### Hi there 👋
-I am Daniel artist and songwriter 🎶🎧😝
-i am currently learning web developement 🌐
-It seems overwelhming but i would survive😅
+I am Daniel Enoch, I am a medical doctor and a full stack developer
+I am currently working on my application Virex, that hopes to provide 
+easy access to HMO, online medical consultaion, online drug prescription, 
+online theraphy just on your palm.
+For personal collaborations, suggestions or feedbacks kindly reach me 
+kingdommuzique@gmail.com
 
-And finally Here!
+
+
 
 
 <!--
