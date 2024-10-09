@@ -18,16 +18,16 @@ and online theraphy just on your palm.
 ![Static Badge](https://img.shields.io/badge/-CSS-orange)
 ![Static Badge](https://img.shields.io/badge/-Saas-brown)
 ### Design:
-![Static Badge](https://img.shields.io/badge/-Figma-purple)
-![Static Badge](https://img.shields.io/badge/-Canva-white)
+![Static Badge](https://img.shields.io/badge/-FIGMA-purple)
+![Static Badge](https://img.shields.io/badge/-CANVA-white)
 ### Framework:
-![Static Badge](https://img.shields.io/badge/-Bootstrap-YELLOW)
-![Static Badge](https://img.shields.io/badge/-React-blue)
-![Static Badge](https://img.shields.io/badge/-NodeJs-red)
+![Static Badge](https://img.shields.io/badge/-BOOTSTRAP-YELLOW)
+![Static Badge](https://img.shields.io/badge/-REACT-blue)
+![Static Badge](https://img.shields.io/badge/-Node.JS-red)
 ### Database:
 ![Static Badge](https://img.shields.io/badge/-MongoDb-red)
 ![Static Badge](https://img.shields.io/badge/-Mongodb%20Compass-%20ash)
-![Static Badge](https://img.shields.io/badge/-Postman-purple)
+![Static Badge](https://img.shields.io/badge/-POSTMAN-purple)
 ### Tools and Methods
 ![Static Badge](https://img.shields.io/badge/-GitHub-pink)
 ![Static Badge](https://img.shields.io/badge/-AmoCRM-gold)
