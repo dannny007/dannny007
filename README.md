@@ -5,9 +5,9 @@ Hi there 👋
 - And a full stack developer 👨‍💻
 - I am currently learning new skills and technlogies 🌐
 that would enable my application Virex go live
-- Virex hopes to provide easy access to HMOs,
-- Online medical consultation, 
-- Online drug prescription
+- Virex hopes to provide easy access to HMOs 📱
+- Online medical consultation👨‍⚕️
+- Online drug prescription 💊
 and online theraphy just on your palm.
 
 ## TOOLS TECH & SKILLS 
