@@ -11,17 +11,27 @@ that would enable my application Virex go live
 and online theraphy just on your palm.
 
 ## TOOLS TECH & SKILLS 
-### Languages
+### Programming Languages:
 ![Static Badge](https://img.shields.io/badge/-Javascript-red)
+### StyleSheet Language:
 ![Static Badge](https://img.shields.io/badge/-HTML-blue)
 ![Static Badge](https://img.shields.io/badge/-CSS-orange)
+![Static Badge](https://img.shields.io/badge/-Saas-brown)
+### Design:
 ![Static Badge](https://img.shields.io/badge/-Figma-purple)
+### Framework:
 ![Static Badge](https://img.shields.io/badge/-Bootstrap-blue)
 ![Static Badge](https://img.shields.io/badge/-React-black)
+![Static Badge](https://img.shields.io/badge/-NodeJs-red)
+### Database:
 ![Static Badge](https://img.shields.io/badge/-MongoDB-ORANGE)
+![Static Badge](https://img.shields.io/badge/-Mongodb%20Compass-%20ash)
+![Static Badge](https://img.shields.io/badge/-Postman-purple)
+### Tools and Methods
 ![Static Badge](https://img.shields.io/badge/-GitHub-pink)
 ![Static Badge](https://img.shields.io/badge/-AmoCRM-gold)
-![Static Badge](https://img.shields.io/badge/-NodeJs-red)
+
+
 
 
 
