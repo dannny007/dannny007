@@ -19,6 +19,7 @@ and online theraphy just on your palm.
 ![Static Badge](https://img.shields.io/badge/-Saas-brown)
 ### Design:
 ![Static Badge](https://img.shields.io/badge/-Figma-purple)
+![Static Badge](https://img.shields.io/badge/-Canva-white)
 ### Framework:
 ![Static Badge](https://img.shields.io/badge/-Bootstrap-blue)
 ![Static Badge](https://img.shields.io/badge/-React-blue)
