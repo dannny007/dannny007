@@ -21,7 +21,7 @@ and online theraphy just on your palm.
 ![Static Badge](https://img.shields.io/badge/-Figma-purple)
 ### Framework:
 ![Static Badge](https://img.shields.io/badge/-Bootstrap-blue)
-![Static Badge](https://img.shields.io/badge/-React-black)
+![Static Badge](https://img.shields.io/badge/-React-blue)
 ![Static Badge](https://img.shields.io/badge/-NodeJs-red)
 ### Database:
 ![Static Badge](https://img.shields.io/badge/-MongoDB-ORANGE)
