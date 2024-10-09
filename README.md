@@ -25,7 +25,7 @@ and online theraphy just on your palm.
 ![Static Badge](https://img.shields.io/badge/-React-blue)
 ![Static Badge](https://img.shields.io/badge/-NodeJs-red)
 ### Database:
-![Static Badge](https://img.shields.io/badge/-MongoDB-ORANGE)
+![Static Badge](https://img.shields.io/badge/-MongoDb-red)
 ![Static Badge](https://img.shields.io/badge/-Mongodb%20Compass-%20ash)
 ![Static Badge](https://img.shields.io/badge/-Postman-purple)
 ### Tools and Methods
