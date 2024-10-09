@@ -1,13 +1,13 @@
 Hi there 👋
 ## INTRO 🤝
-I am Daniel Enoch 😀
-I am a medical doctor⚕️
-And a full stack developer 👨‍💻
-I am currently learning new skills and technlogies 🌐
+- I am Daniel Enoch 😀
+- I am a medical doctor⚕️
+- And a full stack developer 👨‍💻
+- I am currently learning new skills and technlogies 🌐
 that would enable my application Virex go live
-Virex hopes to provide easy access to HMOs,
-Online medical consultation, 
-online drug prescription, 
+- Virex hopes to provide easy access to HMOs,
+- Online medical consultation, 
+- Online drug prescription
 and online theraphy just on your palm.
 
 ## TOOLS TECH & SKILLS
