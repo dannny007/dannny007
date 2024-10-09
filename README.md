@@ -10,7 +10,7 @@ that would enable my application Virex go live
 - Online drug prescription 💊
 and online theraphy just on your palm.
 
-## TOOLS TECH & SKILLS 
+## TOOLS TECHNOLOGIES & SKILLS 
 ### Programming Languages:
 ![Static Badge](https://img.shields.io/badge/-Javascript-red)
 ### StyleSheet Language:
